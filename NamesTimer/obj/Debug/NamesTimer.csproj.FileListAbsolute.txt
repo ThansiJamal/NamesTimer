@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\NamesTimer\NamesTimer\bin\Debug\NamesTimer.exe.config
+C:\Users\user\source\repos\NamesTimer\NamesTimer\bin\Debug\NamesTimer.exe
+C:\Users\user\source\repos\NamesTimer\NamesTimer\bin\Debug\NamesTimer.pdb
+C:\Users\user\source\repos\NamesTimer\NamesTimer\obj\Debug\NamesTimer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\NamesTimer\NamesTimer\obj\Debug\NamesTimer.Form1.resources
+C:\Users\user\source\repos\NamesTimer\NamesTimer\obj\Debug\NamesTimer.Properties.Resources.resources
+C:\Users\user\source\repos\NamesTimer\NamesTimer\obj\Debug\NamesTimer.csproj.GenerateResource.cache
+C:\Users\user\source\repos\NamesTimer\NamesTimer\obj\Debug\NamesTimer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NamesTimer\NamesTimer\obj\Debug\NamesTimer.exe
+C:\Users\user\source\repos\NamesTimer\NamesTimer\obj\Debug\NamesTimer.pdb
